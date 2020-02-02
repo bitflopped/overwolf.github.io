@@ -24,7 +24,7 @@ You will find several files and folders in the sample app repository:
 
 ## manifest.json
 
-The [manifest](/api/manifest-json) file is responsible for describing the different aspects of your app. This is a mandatory file for all apps and has to be present in the root folder for your app to function.
+The [manifest](/docs/api/manifest-json) file is responsible for describing the different aspects of your app. This is a mandatory file for all apps and has to be present in the root folder for your app to function.
 
 ## App icons
 
